@@ -47,7 +47,7 @@
 >[!TIP]
 >- `Accuracy functions`
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/ea36cd94-67b6-4bf3-ac7e-f4cae60cdeb0" width="600">
+  <img src="https://github.com/user-attachments/assets/ea36cd94-67b6-4bf3-ac7e-f4cae60cdeb0" width="350">
 </div>
 
 ## Model Design
@@ -103,10 +103,9 @@
 
 | File | Description |
 |------|-------------|
-| `arch/` | Contains dataset files |
 | `code/` | Jupyter Notebooks |
-| `code/` | Model files |
-| `code/` | Data processing and model training scripts |
+| `code/Code/completed_model_ensemble.ipynb` | Ensemble model |
+| `Model_architecture/` | Model Architecture diagram |
 | `README.md` | Project information and instructions |
 
 ## Results
