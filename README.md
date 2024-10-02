@@ -1,6 +1,6 @@
 # Wheat Disease Detection with Improved MobileNet and Inception Model
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2f92a2ce-a2d6-444b-80d6-d1552af88ff3" width="200">
+  <img src="https://github.com/user-attachments/assets/2f92a2ce-a2d6-444b-80d6-d1552af88ff3" width="150">
 </div>
 <br/>
 <div align="center">
