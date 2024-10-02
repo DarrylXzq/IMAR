@@ -56,8 +56,8 @@
 > - Introduce **residual blocks** and **SE-block attention mechanisms** in these models to enhance performance.
 > - `Figure 1`shows the improved Inception architecture, and `Figure 2` shows the integration model that includes improved Inception and MobileNet
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/bcf3bed7-4023-45ea-bf9b-efceed661337" width="600">
-  <img src="https://github.com/user-attachments/assets/97082b3c-a35e-4bf9-856c-aa6f4837079a" height="475">
+  <img src="https://github.com/user-attachments/assets/bcf3bed7-4023-45ea-bf9b-efceed661337" width="500">
+  <img src="https://github.com/user-attachments/assets/97082b3c-a35e-4bf9-856c-aa6f4837079a" height="375">
 </div>
 
 ## Performance Evaluation
