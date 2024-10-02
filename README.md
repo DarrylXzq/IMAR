@@ -1,3 +1,8 @@
+# Wheat Disease Detection with Improved MobileNet and Inception Model
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2f92a2ce-a2d6-444b-80d6-d1552af88ff3" width="200">
+</div>
+<br/>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-blue.svg">
   <img src="https://img.shields.io/badge/-Conda-orange.svg">
@@ -10,7 +15,6 @@
   <img src="https://img.shields.io/badge/-CV2-lightgrey.svg">
 </div>
 
-# Wheat Disease Detection with Improved MobileNet and Inception Model
 > [!IMPORTANT]
 > This project uses the [`Kaggle`](https://www.kaggle.com/datasets/olyadgetch/wheat-leaf-dataset) wheat disease dataset. Through `stratified sampling`, `data augmentation`, `ensemble modeling`, `performance evaluation`, and `visual analysis`, I have designed and optimized a wheat disease detection model, which is then compared with `common pre-trained models`.
 
