@@ -128,3 +128,19 @@ The **IMAR model** achieved superior performance on the wheat disease detection 
 > 2. The project must `not` be used as or embedded in any `commercial product`.
 
 
+## 😄 Acknowledgements
+
+ - Thanks to the family, supervisors, and friends for their help.👋👋👋
+ - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## 👋 Feedback
+
+If you have any feedback, please reach out to us at `xiangzq.darryl@gmail.com`
+
+
+
+
