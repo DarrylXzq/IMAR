@@ -123,7 +123,7 @@ The **IMAR model** achieved superior performance on the wheat disease detection 
 | IMAR         | 0.0997 | 98.41%   | 98.41% | 98.51%    | 98.42% | 99.46%     | 98.41%      | 97.62%|
 
 ##  Usage Restrictions
-> [!IMPORTANT]
+> [!WARNING]
 > 1. This project and its code may `not` be used for any form of `commercial sales or services`.
 > 2. The project must `not` be used as or embedded in any `commercial product`.
 
