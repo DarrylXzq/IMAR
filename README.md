@@ -4,15 +4,15 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-blue.svg">
-  <img src="https://img.shields.io/badge/-Conda-orange.svg">
+  <img src="https://img.shields.io/badge/-Python-red.svg">
+  <img src="https://img.shields.io/badge/-Conda-blue.svg">
   <img src="https://img.shields.io/badge/-TensorFlow-orange.svg">
-  <img src="https://img.shields.io/badge/-Numpy-blue.svg">
-  <img src="https://img.shields.io/badge/-Pandas-blue.svg">
-  <img src="https://img.shields.io/badge/-Matplotlib-blue.svg">
-  <img src="https://img.shields.io/badge/-Seaborn-lightblue.svg">
-  <img src="https://img.shields.io/badge/-Jupyter-lightgrey.svg">
-  <img src="https://img.shields.io/badge/-CV2-lightgrey.svg">
+  <img src="https://img.shields.io/badge/-Numpy-green.svg">
+  <img src="https://img.shields.io/badge/-Pandas-yellow.svg">
+  <img src="https://img.shields.io/badge/-Matplotlib-orange.svg">
+  <img src="https://img.shields.io/badge/-Seaborn-purple.svg">
+  <img src="https://img.shields.io/badge/-Jupyter-grey.svg">
+  <img src="https://img.shields.io/badge/-CV2-blue.svg">
 </div>
 
 > [!IMPORTANT]
